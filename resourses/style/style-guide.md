@@ -12,7 +12,7 @@ The designs were created to the following widths:
 ### Primary
 
 Bright orange: hsl(31, 77%, 52%)
-Dark cyan: hsl(184, 100%, 22%)
+Dark cyan: hsl(31, 77%, 52%)
 Very dark cyan: hsl(179, 100%, 13%)
 
 ### Neutral

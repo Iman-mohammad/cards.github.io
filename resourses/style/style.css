@@ -1,3 +1,5 @@
+/*universal style*/
+
 *{
     box-sizing: border-box;
     Font-size: 15px;
@@ -11,23 +13,6 @@ body{
     text-transform: uppercase;
 }
 
-/*main style */
-main {
-    margin: 5% auto ;
-    height: 80%;
-    display : flex;
-    justify-content: center;
-    
-    
-
-}
-
-.cards {
-    padding: 2rem;
-    height: 100%;
-    width: 25%;
-}
-
 .bright-orange{
     background-color:hsl(31, 77%, 52%) ;
 }
@@ -38,6 +23,20 @@ main {
 
 .very-dark-cyan{
     background-color:hsl(179, 100%, 13%) ;
+}
+/*main style */
+main {
+    margin: 5% auto ;
+    height: 80%;
+    display : flex;
+    justify-content: center;
+}
+
+/*cards style*/
+.cards {
+    padding: 2rem;
+    height: 100%;
+    width: 25%;
 }
 
 figure{
@@ -63,8 +62,7 @@ p{
     font-size: 1.1rem;
     font-weight: 400;
     line-height: 1.5;
-    width: 85%;
-    
+    width: 85%;  
 }
 
 button{
@@ -74,4 +72,13 @@ button{
    width: 130px;
    border-radius: 25px;
    font-family: 'Lexend Deca', sans-serif;
+   
 }
+
+button:hover{
+    background-color: transparent;
+    border: 1.5px solid hsl(0, 0%, 95%);
+    cursor: pointer;
+    color: hsl(0, 0%, 95%) !important;   
+}
+
