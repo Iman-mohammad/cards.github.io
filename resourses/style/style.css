@@ -133,5 +133,26 @@ button{
 
 }
 
+@media screen and (max-height:500px) {
+  
+   section{
+       width: 90%;
+   }
+
+
+button{
+   display: none;
+}
+
+p{
+    width: 100%;
+}
+
+h1{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+}
  
 
