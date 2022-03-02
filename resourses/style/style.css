@@ -156,3 +156,16 @@ h1{
 }
  
 
+@media screen and (max-height:300px) {
+  
+  
+ p{
+   display: none;
+ }
+ 
+
+ }
+  
+ 
+ 
+
