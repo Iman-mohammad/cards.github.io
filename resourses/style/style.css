@@ -33,7 +33,7 @@ body{
 
 /*main style */
 main {
-    height: 490px;
+    height: 500px;
     display : flex;
     justify-content: center;
 }
