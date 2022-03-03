@@ -78,14 +78,14 @@ button{
     width: 130px;
     border-radius: 25px;
     font-family: 'Lexend Deca', sans-serif;
- }
+}
  
  button:hover{
      background-color: transparent;
      border: 1.5px solid hsl(0, 0%, 95%);
      cursor: pointer;
      color: hsl(0, 0%, 95%) !important;   
- }
+}
  
  
 
@@ -135,35 +135,30 @@ button{
 
 @media screen and (max-height:500px) {
   
-   section{
-       width: 90%;
-   }
+    section{
+        width: 90%;
+    }
 
 
-button{
-   display: none;
-}
+    button{
+        display: none;
+    }
 
-p{
-    width: 100%;
-}
+    p{
+        width: 100%;
+    }
 
-h1{
-    padding-bottom: 0;
-    margin-bottom: 0;
-}
+    h1{
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
 
 }
  
-
 @media screen and (max-height:300px) {
-  
-  
- p{
-   display: none;
- }
- 
-
+    p{
+    display: none;
+    }
  }
   
  
