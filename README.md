@@ -25,8 +25,8 @@ This project build out 3-column preview card component , it designed to make use
 
 ### Links
 
-- Solution URL: #https://github.com/Iman-mohammad/cards.github.io.git
-- Live Site URL: #https://iman-mohammad.github.io/cards.github.io/
+- Solution URL: https://github.com/Iman-mohammad/cards.github.io.git
+- Live Site URL: https://iman-mohammad.github.io/cards.github.io/
 
 ## My process
 
