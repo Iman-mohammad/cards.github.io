@@ -25,10 +25,9 @@ This project build out 3-column preview card component , it designed to make use
 
 ### Links
 
-- Solution URL: https://github.com/Iman-mohammad/cards.github.io.git
-- Live Site URL: https://iman-mohammad.github.io/cards.github.io/
+- Solution URL: [Add solution URL here](https://github.com/Iman-mohammad/cards.github.io.git)
+- Live Site URL: [Add live site URL here](https://iman-mohammad.github.io/cards.github.io/)
 
-## My process
 
 ### Built with
 
@@ -40,12 +39,14 @@ This project build out 3-column preview card component , it designed to make use
 
 ### Useful resources
 
-- MDN : https://developer.mozilla.org/en-US/ 
-- w3school :https://www.w3schools.com  
+- [Example resource 1 :  MDN](https://developer.mozilla.org/en-US/ )
+- [Example resource 2 : w3school ](https://www.w3schools.com ) 
+
+
 
 ## Author
 
-- Frontend Mentor  : @Iman-mohammad https://www.frontendmentor.io/profile/Iman-mohammad
-- LinkedIn:  https://www.linkedin.com/in/iman-mohammad-340017220 
+- Frontend Mentor - [@Iman-mohammad](https://www.frontendmentor.io/profile/Iman-mohammad)
+- Twitter - [@iman-mohammad](https://www.linkedin.com/in/iman-mohammad-340017220 )
 
 
