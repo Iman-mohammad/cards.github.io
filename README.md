@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Overview
 
 ### The challenge
-This project build out 3-column preview card component , it designed to make users  able to View the optimal layout depending on their device's screen size
+This project build out 3-column preview card component, it designed to make users  able to View the optimal layout depending on their device's screen size
 
 ### Screenshot
 
@@ -25,8 +25,8 @@ This project build out 3-column preview card component , it designed to make use
 
 ### Links
 
-- Solution URL: [https://github.com/Iman-mohammad/cards.github.io.git]
-- Live Site URL: [Add live site URL here](https://iman-mohammad.github.io/cards.github.io/)
+-  [Solution URL:](https://github.com/Iman-mohammad/cards.github.io.git)
+-  [Live Site URL:](https://iman-mohammad.github.io/cards.github.io/)
 
 
 ### Built with
@@ -47,6 +47,6 @@ This project build out 3-column preview card component , it designed to make use
 ## Author
 
 - Frontend Mentor - [@Iman-mohammad](https://www.frontendmentor.io/profile/Iman-mohammad)
-- LinkedIn - [@iman-mohammad](https://www.linkedin.com/in/iman-mohammad-340017220 )
+- LinkedIn - [@iman-mohammad](https://www.linkedin.com/in/iman-mohammad-340017220)
 
 
