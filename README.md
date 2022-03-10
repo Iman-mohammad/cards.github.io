@@ -38,8 +38,8 @@ This project build out 3-column preview card component, it designed to make user
 
 ### Useful resources
 
-- [Example resource 1 :  MDN](https://developer.mozilla.org/en-US/ )
-- [Example resource 2 : w3school ](https://www.w3schools.com ) 
+- [MDN:](htt:ps://developer.mozilla.org/en-US/ )
+- [W3school:](https://www.w3schools.com ) 
 
 
 
