@@ -2,7 +2,6 @@
 
 *{
     box-sizing: border-box;
-    
     margin: 0;
     padding: 0;
 }
@@ -10,6 +9,7 @@
 body{
     Font-size: 15px;
     background-color: hsl(0, 0%, 95%);
+    
 }
 
 .capital{
@@ -32,12 +32,15 @@ body{
     border-bottom-right-radius: 3%;
 }
 
-/*main style */
+a{
+    color: hsl(224, 99%, 40%);
+    text-decoration: none;
+}
 
 .container { 
     max-width: 1440px;
 	max-height: 75%;
-	position: absolute;
+	position: fixed;
 	top:0;
 	bottom: 0;
 	left: 0;
@@ -84,7 +87,7 @@ h1{
 p{
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: 400;
     line-height: 1.7;
     width: 85%; 
@@ -96,9 +99,10 @@ button{
     background-color:hsl(0, 0%, 95%) ;
     border: none;
     height: 38px;
-    width: 130px;
+    width: 150px;
     border-radius: 25px;
     font-family: 'Lexend Deca', sans-serif;
+    font-size: 1.2rem;
 }
  
  button:hover{
@@ -149,41 +153,12 @@ button{
         border-bottom-left-radius: 3%;
     }
 
-
-  
-
-
+    
 }
-/*
-@media screen and (max-height:400px) {
-  
-    .cards{
-        height: 80%;
-    }
 
-
-    button{
-        display: none;
-    }
-
-    p{
-        width: 100%;
-    }
-
-  
+footer{
+    position: relative;
+    top: 95%;
+    margin: 2.5% 0;
+    text-align: center;
 }
- 
-@media screen and (max-height:300px) {
-
-    .cards{
-       height: 40%; 
-    }
-    p{
-    display: none;
-    }
- }
-  
- 
- 
-
-*/
