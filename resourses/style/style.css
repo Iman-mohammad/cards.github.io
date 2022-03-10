@@ -2,13 +2,14 @@
 
 *{
     box-sizing: border-box;
-    Font-size: 15px;
+    
+    margin: 0;
+    padding: 0;
 }
 
 body{
+    Font-size: 15px;
     background-color: hsl(0, 0%, 95%);
-    margin: 5% 0 ; 
-   
 }
 
 .capital{
@@ -32,27 +33,45 @@ body{
 }
 
 /*main style */
-main {
-    height: 500px;
+
+.container { 
+    max-width: 1440px;
+	max-height: 75%;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin:  auto ;
     display : flex;
     justify-content: center;
+
+}
+main {
+ 
+    display : flex;
+    justify-content: center;
+    max-width: 80%;
+	height: 100%;
+    
 }
 
 /*cards style*/
 .cards {
     padding: 1.5rem;
     height: 100%;
-    width: 25%;
+    width: 33%;
 }
 
 figure{
     padding: 0;
-    margin: 0;
+    margin: 5% 0;
     height: 10%;
 }
 
 section{
-    height: 70%;
+    height: 66%;
+    margin-top: 9%;
 }
 
 h1{
@@ -67,8 +86,9 @@ p{
     font-family: 'Lexend Deca', sans-serif;
     font-size: 1.1rem;
     font-weight: 400;
-    line-height: 1.5;
-    width: 85%;  
+    line-height: 1.7;
+    width: 85%; 
+    margin-top: 7%; 
 }
 
 
@@ -88,32 +108,37 @@ button{
      color: hsl(0, 0%, 95%) !important;   
 }
  
- 
 
-@media screen and (max-width:1111px ) {
-  
-    .cards {
-        width: 32%;
+
+@media screen and (max-width:1000px) , (max-height:500px) {
+
+    .container { 
+        
+        position: relative;
+        padding: 2rem 0;
+    }
+
+    main {
+        flex-wrap: wrap;
     }
 
     
-}
+    h1{
+        font-size: 2.5rem;
+    }
+    
+    p{
+        width: 95%; 
+        margin-bottom: 7%;
 
-  
-@media screen and (max-width:700px) {
-  
-    main {
-        flex-wrap: wrap;
-      
     }
 
     .cards {
-        width: 85%;  
-
+        width: 100%;  
+      
     }
 
     .bright-orange{
-       
         border-top-right-radius: 3%;
         border-bottom-left-radius: 0;
     }
@@ -124,16 +149,12 @@ button{
         border-bottom-left-radius: 3%;
     }
 
-    p{
-        width: 80%;
-    }
 
-    .cards {
-        height: 85%;
-    }
+  
+
 
 }
-
+/*
 @media screen and (max-height:400px) {
   
     .cards{
@@ -165,3 +186,4 @@ button{
  
  
 
+*/
