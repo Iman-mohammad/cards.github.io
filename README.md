@@ -47,6 +47,6 @@ This project build out 3-column preview card component , it designed to make use
 ## Author
 
 - Frontend Mentor - [@Iman-mohammad](https://www.frontendmentor.io/profile/Iman-mohammad)
-- Twitter - [@iman-mohammad](https://www.linkedin.com/in/iman-mohammad-340017220 )
+- LinkedIn - [@iman-mohammad](https://www.linkedin.com/in/iman-mohammad-340017220 )
 
 
